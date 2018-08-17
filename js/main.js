@@ -5,20 +5,20 @@ $(window).load(function() {
         MESSAGES = [];
         MESSAGES.push({
             delay: 0,
-            text: 'HARRY PANTAZIS'
+            text: 'Harry luserx0 Pantazis'
         });
 
         MESSAGES.push({
             delay: 800,
-            text: ' —  First Title;'
+            text: ' —  Unix/Lunix System Administrator;'
         });
         MESSAGES.push({
             delay: 1800,
-            text: ' —  Second Title;'
+            text: ' —  Open Source Advocate/Engineer/Contributor;'
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Thrid.'
+            text: ' —  Freelancer/Blogger/Security Enthusiast.'
         });
         MESSAGES.push({
             delay: 4800,
