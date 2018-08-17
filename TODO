@@ -1,0 +1,24 @@
+1) Add HTTPS Support for site
+2) Create:
+	a) A frontend page with all the info
+	b) A link to blog containing GSoC '17 posts
+	c) A link to blog containing GSoC '18 posts
+		!footnote ~-> Check Dupinion's structure of topics
+
+3) Experiment with the themes
+	- Minimal-Mistakes
+	- Poole
+	- JekyllNow
+	IMPORTANT: Read Jekyll's documentation
+
+4) Correct existing posts and adjust font-size
+
+5) Update:		--AFTER THEME SELECTION
+	a) Credits 
+	b) About
+
+6) Add awesome frontend by denis smirnov as seen on Nick Renieris' blog -- IMPORTANT
+
+IMPORTANT:
+* If you create a file with an .html or .md extension in the root of your Jekyll website, it will be treated as a static page. 
+  For example, about.md would be outputted as www.mysite.com/about
