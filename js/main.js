@@ -5,20 +5,20 @@ $(window).load(function() {
         MESSAGES = [];
         MESSAGES.push({
             delay: 0,
-            text: 'DENIS SMIRNOV'
+            text: 'HARRY PANTAZIS'
         });
 
         MESSAGES.push({
             delay: 800,
-            text: ' —  Cryptocurrency enthusiast / Blockchain consultant;'
+            text: ' —  First Title;'
         });
         MESSAGES.push({
             delay: 1800,
-            text: ' —  Web and Application Designer / UI/UX expert;'
+            text: ' —  Second Title;'
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Digital publishing evangelist / Founder of iPublishing.'
+            text: ' —  Thrid.'
         });
         MESSAGES.push({
             delay: 4800,
