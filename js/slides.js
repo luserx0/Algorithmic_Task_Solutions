@@ -1534,11 +1534,11 @@ $(document).ready(function() {
         text: window.shareText,
         enableCounter: false,
         share: {
-            twitter: true,
-            facebook: true,
-            pinterest: true,
-            googlePlus: true,
-            stumbleupon: true,
+            twitter: false,
+            facebook: false,
+            pinterest: false,
+            googlePlus: false,
+            stumbleupon: false,
             linkedin: true
         },
 
@@ -1553,15 +1553,6 @@ $(document).ready(function() {
 
         render: function(api) {
 
-            $(api.element).on('click touchstart', '.twitter', function() {
-                api.openPopup('twitter');
-            });
-            $(api.element).on('click touchstart', '.facebook', function() {
-                api.openPopup('facebook');
-            });
-            $(api.element).on('click touchstart', '.pinterest', function() {
-                api.openPopup('pinterest');
-            });
             $(api.element).on('click touchstart', '.googlePlus', function() {
                 api.openPopup('googlePlus');
             });
