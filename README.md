@@ -8,7 +8,7 @@ Certainly dirty.
 ### Cleanup:
 - ~PDP~
 - ~Codeforces~
-- UVA
+- ~UVA~
 - ~Hellenico~
 - USACO -- AusCO
 
