@@ -7,9 +7,9 @@ Certainly dirty.
 ## ~~ TODO ~~
 ### Cleanup:
 - ~PDP~
-- Codeforces
+- ~Codeforces~
 - UVA
-- Hellenico
+- ~Hellenico~
 - USACO -- AusCO
 
 **luserx0**  
