@@ -26,18 +26,18 @@ void custom(){
         /*if (numbers[i+1] == 0)
             break;*/
 
-        if (numbers[i+1] > 0 ) //αν επομενο σκαλι θετικό
+        if (numbers[i+1] > 0 )
             sum += numbers[i+1];
-        else{ // αν καποιος αρνητικος
-            if (numbers[i+1] > numbers[i+2]) // dodgare τον πιο αρνητικο
+        else{
+            if (numbers[i+1] > numbers[i+2])
                 sum += numbers[i+1];
             else{
                 sum += numbers[i+2];
-                i++; // ενημερωσε τη θεση
+                i++;
             }
         }
     }
-        //printf("%d\n", sum); // monitor του sequence
+        //printf("%d\n", sum);
 }
 //}
 
